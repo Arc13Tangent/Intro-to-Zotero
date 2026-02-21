@@ -210,7 +210,7 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 
 Zotero有許多開源的插件，絕大部分的原始碼可以在GitHub上看到，並有很多網友一同檢視其安全性問題和功能的更新。
 
-> [!caution] 關於第三方插件
+> [!CAUTION] 關於第三方插件
 > 雖然絕大多數的插件皆開源且免費取用，但仍有部分插件有付費後才會開放的功能。
 > 
 > 另外，有一些插件需要提供API Keys或是其它私人資訊，請先看過GitHub頁面相關的討論來判斷此插件是否安全。
