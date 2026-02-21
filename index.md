@@ -2,6 +2,7 @@
 layout: default
 title: Zotero 介紹
 nav_order: 1
+has_toc: true
 description: 一份關於 Zotero 的開源使用教學，採用 GPLv3 授權。
 lang: zh-Hant
 ---
