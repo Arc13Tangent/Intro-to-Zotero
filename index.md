@@ -7,9 +7,6 @@ lang: zh-Hant
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-* 目錄
-{:toc}
-
 # Zotero 介紹
 
 ## 特點
