@@ -7,9 +7,9 @@ lang: zh-Hant
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-# Zotero 介紹 {#Zotero介紹}
+# Zotero 介紹 {#zotero}
 
-## 特點
+## 特點 {#features}
 這是一個
 
 - 可導出相容於 **Word/LaTeX/Overleaf** 的文獻格式
@@ -21,11 +21,11 @@ lang: zh-Hant
 
 的文獻管理軟體
 
-## 有了 Zotero 能做什麼？
-### 快速下載文獻 {#快速下載文獻}
+## 有了 Zotero 能做什麼？ {#can-do}
+### 快速下載文獻 {#import-ref}
 #### 以 [arxiv.org](https://arxiv.org/) 為例
 
-一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](#zotero-電腦版與瀏覽器插件)會自動識別出這是 arxiv 上的文獻。 
+一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](#zotero-and-connector)會自動識別出這是 arxiv 上的文獻。 
 點擊後 PDF 和該頁面的 html 快照會自動下載至 Zotero 當前的資料夾中。
 
 ![](attachment/2ddfda1f2a1f08bc7d3762d24ba0cb49.png)
@@ -40,7 +40,7 @@ lang: zh-Hant
 
 ![](attachment/86db063106d035422cef740894d6a8ea.png)
   
-### 文獻閱讀與筆記 {#文獻閱讀與筆記}
+### 文獻閱讀與筆記 {#read-ref}
 
 #### 在 PDF 檔上做筆記
 
@@ -65,15 +65,15 @@ lang: zh-Hant
 
 ![](attachment/bc720cf5d11ca765ba907379778ae510.png)
 
-### 與 Word 連動 {#與-word-連動}
+### 與 Word 連動 {#feature-word}
 
-[點我跳轉至教學](#word)
+[點我跳轉至教學](#usage-word)
 
 選擇選單中的 Zotero 後，即可插入引用和新增參考文獻。
 
 ![](attachment/9a0a65cb0ec79023f1e919051159fca7.png)
 
-### 導出 BibTeX for LaTeX {#導出-BibTeX-for-LaTeX}
+### 導出 BibTeX for LaTeX {#export-bibtex-for-latex}
 
 [點我跳轉至教學](#overleaflatex)
 
@@ -98,7 +98,7 @@ lang: zh-Hant
 ```
 
 
-### 複製格式化後的引用資料
+### 複製格式化後的引用資料 {#copy-citation}
 
 Zotero 內建了很多不同的引用標準。
 這邊以IEEE標準為例，結果如下：
@@ -110,9 +110,9 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 ```
 
 
-## 安裝
+## 安裝 {#install}
 
-### Zotero 電腦版與瀏覽器插件
+### Zotero 電腦版與瀏覽器插件 {#zotero-and-connector}
 
 進入[Zotero 官網](https://www.zotero.org/)後，點選中央紅色的 Download 會跳轉至下載頁面。
 
@@ -122,9 +122,9 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 
 ![](attachment/a8da04808c405359e7875c4857cbbaa9.png)
 
-### Zotero on 手機/平板
+### Zotero on 手機/平板 {#zotero-on-phones-and-tablets}
 
-## 基礎使用
+## 基礎使用 {#usage}
 
 ### 1. 新增 Collection
 
@@ -150,7 +150,7 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 
 ### 4. 引用文獻
 
-#### Word
+#### Word {#usage-word}
 
 開啟 Word 後會出現 Zotero 選單。
 進入 Zotero 選單，游標點在想要的位置後
@@ -206,7 +206,7 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 
 Zotero有許多開源的插件，絕大部分的原始碼可以在GitHub上看到，並有很多網友一同檢視其安全性問題和功能的更新。
 
-> [!caution] 關於第三方插件
+> [caution] 關於第三方插件
 > 雖然絕大多數的插件皆開源且免費取用，但仍有部分插件有付費後才會開放的功能。
 > 
 > 另外，有一些插件需要提供API Keys或是其它私人資訊，請先看過GitHub頁面相關的討論來判斷此插件是否安全。
