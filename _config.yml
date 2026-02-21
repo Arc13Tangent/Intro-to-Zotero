@@ -1,5 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
+heading_anchors: true
 
 title: Zotero 介紹
 description: 一份關於 Zotero 的開源使用教學，採用 GPLv3 授權。
