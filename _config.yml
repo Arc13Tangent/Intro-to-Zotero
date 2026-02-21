@@ -1,9 +1,15 @@
-title: Zotero 介紹
-description: 一份關於 Zotero 的完整開源使用教學，採用 GPLv3 授權。
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
 
-remote_theme: pages-themes/cayman@v0.2.0
+title: Zotero 介紹
+description: 一份關於 Zotero 的開源使用教學，採用 GPLv3 授權。
+
+aux_links:
+  "在 GitHub 上查看":
+    - https://github.com/Arc13Tangent/Intro-to-Zotero
 
 markdown: kramdown
+
 kramdown:
   input: GFM
   hard_wrap: false
