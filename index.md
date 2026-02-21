@@ -7,10 +7,9 @@ lang: zh-Hant
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-# Zotero 介紹
+# Zotero 介紹 {#Zotero介紹}
 
 ## 特點
-
 這是一個
 
 - 可導出相容於 **Word/LaTeX/Overleaf** 的文獻格式
@@ -23,9 +22,7 @@ lang: zh-Hant
 的文獻管理軟體
 
 ## 有了 Zotero 能做什麼？
-
-### 快速下載文獻
-
+### 快速下載文獻 {#快速下載文獻}
 #### 以 [arxiv.org](https://arxiv.org/) 為例
 
 一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](#zotero-電腦版與瀏覽器插件)會自動識別出這是 arxiv 上的文獻。 
@@ -43,7 +40,7 @@ lang: zh-Hant
 
 ![](attachment/86db063106d035422cef740894d6a8ea.png)
   
-### 文獻閱讀與筆記
+### 文獻閱讀與筆記 {#文獻閱讀與筆記}
 
 #### 在 PDF 檔上做筆記
 
@@ -68,7 +65,7 @@ lang: zh-Hant
 
 ![](attachment/bc720cf5d11ca765ba907379778ae510.png)
 
-### 與 Word 連動
+### 與 Word 連動 {#與-word-連動}
 
 [點我跳轉至教學](#word)
 
@@ -76,7 +73,7 @@ lang: zh-Hant
 
 ![](attachment/9a0a65cb0ec79023f1e919051159fca7.png)
 
-### 導出 BibTeX for LaTeX  
+### 導出 BibTeX for LaTeX {#導出-BibTeX-for-LaTeX}
 
 [點我跳轉至教學](#overleaflatex)
 
